@@ -1,8 +1,4 @@
-# ▎안녕하세요,<br>▎백엔드 개발자를 꿈꾸는
-
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=BoYeonJang&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoYeonJang&layout=compact&theme=material-palenight)
-<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoYeonJang&layout=compact&theme=material-palenight) -->
+# ▎안녕하세요,<br>▎멘탈자바 팀입니다. <br>▎백엔드 개발을 공부하고 있습니다.부많관부
 
 ## ▎🛠 Tech Stacks
 - Data: <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span><br/>
