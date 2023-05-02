@@ -8,7 +8,7 @@
 - Database : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span><br/>
 - back-end : <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> </span><img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/><br/>
 
-- Communication : <br/>
+- Communication : <span><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=git&logoColor=white"></span><br/>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 
