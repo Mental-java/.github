@@ -1,4 +1,4 @@
-# ▎안녕하세요,<br>▎멘탈자바 팀입니다. <br>▎백엔드 개발을 공부하고 있습니다.부많관부
+# ▎안녕하세요,<br>▎멘탈자바 팀입니다. <br>▎백엔드 개발을 공부하고 있습니다. 많관부
 
 ## ▎🛠 Tech Stacks
 - Data: <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span><br/>
